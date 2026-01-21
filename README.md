@@ -21,7 +21,7 @@ In this project, I hardened a Windows Server environment to reduce attack surfac
 - Windows Event Logging / DNS logging
 
 ## Evidence
-Screenshots are included in the `screenshots/` folder and the full lab report is in `report/`.
+The full lab report is in `report/` folder.
 
 ## Key Takeaway
 This lab helped me practice securing and monitoring a Windows Server environment using real-world hardening steps and security controls.
