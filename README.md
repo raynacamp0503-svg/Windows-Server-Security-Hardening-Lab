@@ -1,5 +1,3 @@
-# Windows-Server-Security-Hardening-Lab
-
 # Windows Server Security Hardening Lab
 
 ## Overview
